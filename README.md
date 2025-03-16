@@ -1,6 +1,8 @@
 # Markov_Chain_Analysis_Excel
 PREDICTION OF CUSTOMER SUBSCRIPTION TRENDS FOR AN ONLINE PLATFORM USING MARKOV CHAIN ANALYSIS.
 
+Markov chain analysis is a mathematical framework that models sequences of events where the probability of the next event depends only on the current state, not the past, a property known as the "memoryless" or "Markov" property. 
+
 Project Overview
 This project aims to analyze customer subscription behavior on an online OTT platform using Markov Chain Analysis. By modeling customer transitions between different subscription states, we can predict future subscription trends and customer retention patterns.
 
